@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo
+{
+    width: 80px;
+}
+header
+{
+    background-image: url(cyber.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    color: white;
+}
+nav
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+.menu-container
+{
+    display: flex;
+    gap: 35px;
+}
+nav li
+{
+    list-style: none;
+    font-size: 20px;
+}
+.banner-container
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.text-left
+{
+    font-size: 30px;
+}
+.btn-read
+{
+    padding: 10px;
+    margin-left: 65px;
+}
+.logo-image
+{
+    display: flex;
+    /* justify-content: space-around; */
+    /* justify-content: space-around; */
+    background-color: #F9F9F9;
+    align-items: center;
+    justify-content: center;
+    width: 1320px;
+    margin: auto;
+}
+.first-image
+{
+    width: 200px;
+    height: 200px;
+}
+.second-image
+{
+    width: 200px;
+    height: 200px;
+}
+.third-image
+{
+    width: 200px;
+    height: 200px;
+}
+.fourth-image
+{
+    width: 200px;
+    height: 200px;
+}
+.five-image
+{
+    width: 200px;
+    height: 200px;
+}
+.service-title
+{
+    font-size: 30px;
+    text-align: center;
+}
+.service-contaner
+{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    justify-items: center;
+    /* border: 1px solid black; */
+}
+.card
+{
+    border: 1px solid black;
+    width: 400px;
+}
+.contact-section
+{
+    /* text-align: center; */
+    display: flex;
+    justify-content: space-around;
+}
+span
+{
+    color: #FB9D5C;
+}
+.hire-btn
+{
+    background-color: #0DCAF0;
+}
+.contact-right-container
+{
+    width: 660px;
+}
+footer li
+{
+    list-style: none;
+}
